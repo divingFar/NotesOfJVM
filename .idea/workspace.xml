@@ -53,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576821835122</updated>
       <workItem from="1576821836823" duration="773000" />
+      <workItem from="1577176138847" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="添加放图片的文件夹">
       <created>1576821995720</created>
@@ -61,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576821995720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加第二章笔记">
+      <created>1577176184352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577176184352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,16 +77,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加放图片的文件夹" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加放图片的文件夹" />
+    <MESSAGE value="添加第二章笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加第二章笔记" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="41" key="CommitChangelistDialog2" timestamp="1576821995137">
+    <state x="489" y="41" key="CommitChangelistDialog2" timestamp="1577176183550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576821995137" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1576822010501">
+    <state x="489" y="41" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577176183550" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1577281776469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576822010501" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577281776469" />
   </component>
 </project>
